@@ -81,7 +81,7 @@ h3 {
     justify-content: flex-end;
     gap: 30px;
 }
-
+ 
 .nav-account {
     grid-column-start: 1;
     grid-column-end: 2;
